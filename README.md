@@ -4,5 +4,4 @@ The dataset can be downloaded from here
 <ul>
   <li><a href="https://drive.google.com/file/d/1_5sZHjcpnXdqAc8KaBk1Z5yB1Y5Z5gzz/view?usp=sharing">google drive</a></li>
   <li><a href="https://www.kaggle.com/d5a5ny/smallshipsdataset">Kaggle</a></li>
-  <li></li>
 </ul>
