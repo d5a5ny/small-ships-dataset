@@ -15,10 +15,10 @@ The benchmark used in the evaluation is the PASCAL VOC 2007 benchmark.
 
 The dataset is in PASCAL VOC format, it consists of four folders as follows:
 <ul>
-  <li>Annotations: contains the xml files () </li>
+  <li>Annotations: contains the xml files </li>
   <li>JPEGImages: contains all the images of the dataset</li>
-  <li>ImageSets: inside it the "Main" folder which contains a text file for all the images name. you need to create three files inside the Main folder (train.txt, val.txt, test.txt)
+  <li>ImageSets: inside it the "Main" folder which contains a text file for all the images name. You need to create three files inside the Main folder (train.txt, val.txt, test.txt)
   </li>
-  <li>txt_labels: contains the x1,y1,x2,y2 for each target</li>
+  <li>txt_labels: contains the x1,y1,x2,y2 for each target.</li>
 </ul>
 
