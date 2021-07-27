@@ -5,3 +5,9 @@ The dataset can be downloaded from here
   <li><a href="https://drive.google.com/file/d/1_5sZHjcpnXdqAc8KaBk1Z5yB1Y5Z5gzz/view?usp=sharing">google drive</a></li>
   <li><a href="https://www.kaggle.com/d5a5ny/smallshipsdataset">Kaggle</a></li>
 </ul>
+
+This dataset is proposed to test an improved RetinaNet with an aggregation context network. This improvment is compared with RetinaNet and other state-of-the-art-detectors.
+more information can be found on <a href="https://spie.org/search?term=iCGIP&pageSize=5&pagesVisited=1&sortBy=Relevance">SPIE website</a> 
+
+![#f03c15] `Note: It is not published yet`
+The benchmark used in the evaluation is the PASCAL VOC 2007 benchmark.
