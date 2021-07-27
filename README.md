@@ -9,5 +9,5 @@ The dataset can be downloaded from here
 This dataset is proposed to test an improved RetinaNet with an aggregation context network. This improvment is compared with RetinaNet and other state-of-the-art-detectors.
 more information can be found on <a href="https://spie.org/search?term=iCGIP&pageSize=5&pagesVisited=1&sortBy=Relevance">SPIE website</a> 
 
-![#f03c15] `Note: It is not published yet`
+`Note: It is not published yet`
 The benchmark used in the evaluation is the PASCAL VOC 2007 benchmark.
