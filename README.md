@@ -9,7 +9,11 @@ The dataset can be downloaded from here
 
 This dataset is proposed to test an improved RetinaNet with an aggregation context network. This improvment is compared with RetinaNet and other state-of-the-art-detectors.
 
-More information can be found on <a href="https://spie.org/search?term=iCGIP&pageSize=5&pagesVisited=1&sortBy=Relevance">SPIE website</a> 
+More information can be found on <a href="https://spie.org/search?term=iCGIP&pageSize=5&pagesVisited=1&sortBy=Relevance">An aggregation context network for detecting small ships in remote sensing images</a> 
+By Mostafa Ahmed, Ali Maher, X. Bai.
+
+2021 <a href="http://icgip.org/"> 13th International Conference on Graphics and Image Processing (ICGIP 2021) </a>  in Kunming, China.
+
 `Note: The paper is not published yet`
 
 The benchmark used in the evaluation is the PASCAL VOC 2007 benchmark.
